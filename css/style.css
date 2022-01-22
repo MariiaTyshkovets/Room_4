@@ -1,0 +1,35 @@
+body {
+    font-size: 24px;
+
+}
+
+.wrapper {
+    max-width: 80%;
+    margin: 20px;
+}
+
+.header-logo-img {
+    width: 50px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    background-color: grey;
+    color: white;
+}
+
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-item-nav {
+    padding:  0 20px;
+}
+
+.menu-1 {
+    width: 100%;
+}
