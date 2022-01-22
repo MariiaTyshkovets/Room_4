@@ -65,6 +65,17 @@ body {
     margin-right: 40px;
 }
 
+.btn {
+    font-weight: 600;
+    background-color: #FF9900;
+    border-radius: 4px;
+    height: 46px;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #FF9900;
+    cursor: pointer;
+}
+
 .footer .btn {
     height: 39px;
     font-weight: 700;
