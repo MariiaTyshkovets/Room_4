@@ -33,3 +33,40 @@ body {
 .menu-1 {
     width: 100%;
 }
+
+.footer ul {
+    margin-right: 10px;
+    width: max-content;
+}
+
+.footer li {
+    line-height: 36px;
+}
+
+.footer li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer {
+    border-top: rgba(188, 208, 229, 0.4969) solid 1px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    height: 390px;
+    padding: 102px 0 80px 0;
+}
+
+.footer img {
+    width: 22%;
+    min-width: 100px;
+    align-self: flex-start;
+    margin-right: 40px;
+}
+
+.footer .btn {
+    height: 39px;
+    font-weight: 700;
+    width: 131px;
+}
